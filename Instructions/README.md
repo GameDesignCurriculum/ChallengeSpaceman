@@ -1,1 +1,1 @@
-Add instruction document to this folder
+Read the detailed project brief
